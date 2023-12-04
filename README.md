@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a rising senior at the University of Michigan-- Ann Arbor. My interests include:
+I'm a rising senior at the University of Michigan-- Ann Arbor. My interests include: **DevOps, Machine Learning, and all things cloud.**
 - 🔭 Current Projects:
   - **Personal**: [Advent of Code 2023](https://github.com/Ernesto905/Advent-of-code-2023)
   - **School**: [Operating Systems](https://web.eecs.umich.edu/~nham/eecs482ss20/#introduction) | [Artificial Intelligence](https://laura-burdick.github.io/papers/SyllabusEECS492Winter2023.pdf)
