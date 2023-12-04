@@ -26,17 +26,24 @@ A bit more about me:
 
 ### DevOps:
 
-- Docker 🐳
-- Kubernetes ☸️
-- Terraform 🌍
-- AWS/GCP/Azure ☁️
-- Gilab/Jenkings/Flux CI/CD 🔄
+- 🐳 Docker 
+- ☸️ Kubernetes 
+- 🌍 Terraform 
+- ☁️ AWS/GCP/Azure 
+- 🔄 Gilab/Jenkings/Flux CI/CD 
 
 ### Machine Learning:
 
-- Python 🐍
-- Scikit-Learn 🤖
-- Pandas 🐼
+- 🤖 Scikit-Learn 
+- 🐼 Pandas 
+
+### Languages
+- 📚 C/C++
+- 🌐 Javascript/Typescript
+- 🐍 Python
+- 🐹 Golang
+- 💻 Bash
+
 
 
 ## 📫 Get in Touch
