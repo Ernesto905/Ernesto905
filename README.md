@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a computer science student at the University of Michigan-- Ann Arbor. My interests are DevOps, Machine Learning, and all things cloud.
+I'm a rising senior at the University of Michigan-- Ann Arbor. My interests are DevOps, Machine Learning, and all things cloud.
 
 A bit more about me:
 - 🔭 I’m currently working on:
