@@ -20,7 +20,7 @@ I'm a rising senior at the University of Michigan-- Ann Arbor. My interests incl
 
 ## ⚡ Some Fun Facts:
 - 🎖️ Military Background: I was trained in IT for the US Army.
-- 📚 Philosophy Enjoyer: I love formal logic, metaphysics, and epistemology.
+- 🗿 Philosophy Enjoyer: I love formal logic, metaphysics, and epistemology.
 - 🔍 Insatiably Curious: I can't help but peek under the hood.
 - 🛸 Sci-Fi Enthusiast: Remember, the enemy's gate is down!
 
