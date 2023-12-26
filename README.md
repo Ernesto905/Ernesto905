@@ -5,12 +5,9 @@
 ## 🚀 About Me
 
 I'm a rising senior at the University of Michigan-- Ann Arbor. My interests include: **DevOps, Machine Learning, and all things cloud.**
-- 🔭 Current Projects:
-  - **Personal**: [Advent of Code 2023](https://github.com/Ernesto905/Advent-of-code-2023)
-  /SyllabusEECS492Winter2023.pdf)
 - 🌱 Currently Learning:
-  - **Kubernetes** (Late stage grinding practice exams for CKAD)
-  - **[Data Science in Python](https://www.coursera.org/learn/python-data-analysis/)**
+  - **Kubernetes** (Late stage grinding practice exams for [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/))
+  - Cloud Engineering In **[Google Cloud](https://cloud.google.com/learn/certification/cloud-engineer)**
 - 💬 Ask Me About:
   - DevOps best practices
   - Machine learning workflows
@@ -31,7 +28,7 @@ I'm a rising senior at the University of Michigan-- Ann Arbor. My interests incl
 - 🐳 Docker
 - ☸️ Kubernetes
 - 🌍 Terraform
-- ☁️ AWS/GCP/Azure
+- ☁️ AWS/GCP
 - 🔄 GitLab/Jenkins CI -- Flux CD
 
 ### Machine Learning:
