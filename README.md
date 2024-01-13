@@ -6,7 +6,6 @@
 
 I'm a rising senior at the University of Michigan-- Ann Arbor. My interests include: **DevOps, Machine Learning, and all things cloud.**
 - 🌱 Currently Learning:
-  - **Kubernetes** (Late stage grinding practice exams for [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/))
   - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
 - 💬 Ask Me About:
   - DevOps best practices
