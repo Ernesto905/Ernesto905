@@ -7,10 +7,6 @@
 I'm a rising senior at the University of Michigan-- Ann Arbor. My interests include: **DevOps, Machine Learning, and all things cloud.**
 - 🌱 Currently Learning:
   - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
-- 💬 Ask Me About:
-  - DevOps best practices
-  - Machine learning workflows
-  - Cloud-native technologies
 - 📫 How to Reach Me: [eernesto@umich.edu](mailto:eernesto@umich.edu)
 - 😄 Pronouns: He/Him
 
