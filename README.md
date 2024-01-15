@@ -1,6 +1,6 @@
 # 🎭 Ernesto Enriquez 🎭
 
-**`Hello there! 👋 My name's Ernesto, and I love to build.`**
+**`Hello there! 👋 My name's Ernesto, and software is my passion.`**
 
 ## 🚀 About Me
 
