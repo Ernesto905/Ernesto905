@@ -1,6 +1,7 @@
 #  Ernesto Enriquez 
 
-**`Hello there! My name's Ernesto, and software is my passion.`**
+**`Howdy!
+My name's Ernesto, and software is my passion.`**
 
 ## About Me
 
