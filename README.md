@@ -1,9 +1,10 @@
 ## About me
 Howdy! I'm rising senior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things cloud.**
-- Currently Learning:
+
+Currently Learning:
   - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
   - [Retrieval augmented generation (RAG)](https://github.com/Ernesto905/W24-llm-augmentation) at umich's [MDST](https://mdst.club/)
-- How to Reach Me: [eernesto@umich.edu](mailto:eernesto@umich.edu)
+
 
 ## Some Fun Facts:
 - Military Background: I was trained in IT for the US Army.
@@ -37,4 +38,4 @@ Howdy! I'm rising senior at the University of Michigan-- Ann Arbor. I am passion
 ## 📫 Get in Touch
 
 - LinkedIn: [Click me!](https://www.linkedin.com/in/ernesto-enriquez/)
-- My special secret Website: [Click me!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Email: [eernesto@umich.edu](mailto:eernesto@umich.edu)
