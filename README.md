@@ -1,16 +1,9 @@
-#  Ernesto Enriquez 
-
-**`Howdy!
-My name's Ernesto, and software is my passion.`**
-
-## About Me
-
-I'm a rising senior at the University of Michigan-- Ann Arbor. My interests include: **DevOps, Machine Learning, and all things cloud.**
+## About me
+Howdy! I'm rising senior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things cloud.**
 - Currently Learning:
   - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
   - [Retrieval augmented generation (RAG)](https://github.com/Ernesto905/W24-llm-augmentation) at umich's [MDST](https://mdst.club/)
 - How to Reach Me: [eernesto@umich.edu](mailto:eernesto@umich.edu)
-- Pronouns: He/Him
 
 ## Some Fun Facts:
 - Military Background: I was trained in IT for the US Army.
