@@ -1,5 +1,5 @@
 ## About me
-Howdy! I'm rising senior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things cloud.**
+Howdy! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things Cloud.**
 
 Currently Learning:
   - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
