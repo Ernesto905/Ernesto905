@@ -3,7 +3,10 @@ Howdy! I'm rising senior at the University of Michigan-- Ann Arbor. I am passion
 
 Currently Learning:
   - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
-  - [Retrieval augmented generation (RAG)](https://github.com/Ernesto905/W24-llm-augmentation) at umich's [MDST](https://mdst.club/)
+  - [Building with LLMs (RAG, Embedding, function calling)](https://github.com/Ernesto905/W24-llm-augmentation) at umich's [MDST](https://mdst.club/).
+
+Currently Building: 
+  - [LLM based nutrition and workout planner with flask/htmx/bootstrap/GPT-4](https://github.com/Ernesto905/Ideal)
 
 
 ## Some Fun Facts:
