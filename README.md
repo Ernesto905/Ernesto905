@@ -6,7 +6,7 @@ Currently Learning:
   - [LLM Augmentation (RAG, Preprocessing/Embedding, function calling, and langchain agents)](https://github.com/Ernesto905/W24-llm-augmentation) at umich's [MDST](https://mdst.club/).
 
 Currently Building: 
-  - [LLM based nutrition and workout planner with on flask/htmx/bootstrap](https://github.com/Ernesto905/Ideal)
+  - [LLM based nutrition and workout planner. Building with flask, htmx, bootstrap, deploying on GCP](https://github.com/Ernesto905/Ideal)
 
 
 ## Some Fun Facts:
