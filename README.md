@@ -1,12 +1,8 @@
 ## About me
-Howdy! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things Cloud.**
-
-Currently Learning:
-  - Cloud Engineering In Google Cloud **[(Studying for ACE)](https://cloud.google.com/learn/certification/cloud-engineer)**
-  - [LLM Augmentation (RAG, Preprocessing/Embedding, function calling, and langchain agents)](https://github.com/Ernesto905/W24-llm-augmentation) at umich's [MDST](https://mdst.club/).
+Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things Cloud.**
 
 Currently Building: 
-  - [LLM based nutrition and workout planner. Building with flask, htmx, bootstrap, deploying on GCP](https://github.com/Ernesto905/Ideal)
+  - [Streamlit app with Artic LLM](https://arctic-streamlit-hackathon.devpost.com/)
 
 
 ## Some Fun Facts:
