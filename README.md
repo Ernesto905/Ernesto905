@@ -1,9 +1,6 @@
 ## About me
 Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and all things Cloud.**
 
-Currently Building: 
-  - [Streamlit app with Artic LLM](https://arctic-streamlit-hackathon.devpost.com/)
-
 
 ## Some Fun Facts:
 - Military Background: I was trained in IT for the US Army.
