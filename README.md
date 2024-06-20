@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and Cloud infrastructure.**
+Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: **DevOps, Machine Learning, and Cloud Infrastructure.**
 
 
 ## Some Fun Facts:
