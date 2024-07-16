@@ -21,15 +21,16 @@ Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate abou
 ### Machine Learning/Data Science:
 
 - Scikit-Learn
+- PyTorch
+- Hugging Face
 - Pandas
-- MatPlotLib
 
 ### Languages:
 - C/C++
-- Javascript/Typescript
 - Python
-- Golang
 - Bash
+- Javascript/Typescript
+- Golang
 
 ## 📫 Get in Touch
 
