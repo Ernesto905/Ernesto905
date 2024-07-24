@@ -18,7 +18,7 @@ Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate abou
 - AWS/GCP
 - GitLab/Jenkins CI -- Flux CD
 
-### Machine Learning/Data Science:
+### Machine Learning:
 
 - Scikit-Learn
 - PyTorch
