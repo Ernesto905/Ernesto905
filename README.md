@@ -1,38 +1,29 @@
 ## About me
-Hi! I'm a junior at the University of Michigan-- Ann Arbor. I am passionate about: DevOps, Machine Learning, and Cloud Infrastructure.
+I'm a Junior at the University of Michigan— Ann Arbor. 
 
-
-## Some Fun Facts:
-- Military Background: I was trained in IT for the US Army.
-- Philosophy Enthusiast: I love formal logic, metaphysics, and epistemology.
-- Insatiably Curious: I can't help but peek under the hood.
-- Sci-Fi Fanatic: Remember, the enemy's gate is down!
+I am passionate about DevOps, Machine Learning, and Cloud Infrastructure.
 
 ## Skills
 
-### DevOps:
+#### DevOps:
 
-- Docker
-- Kubernetes
+- Docker, Kubernetes
 - Terraform
 - AWS/GCP
-- GitLab/Jenkins CI -- Flux CD
+- Jenkins, GitLab CI, FluxCD, ArgoCD
 
-### Machine Learning:
+#### Machine Learning:
 
-- Scikit-Learn
-- PyTorch
-- Hugging Face
-- Pandas
+- Scikit-Learn, Tensorflow, Pytorch
+- Hugging Face, MosaicML
+- Numpy, Pandas
 
-### Languages:
-- C/C++
-- Python
-- Bash
-- Javascript/Typescript
-- Golang
+#### Languages:
+- C, C++
+- Python, Golang, Bash
+- Javascript, Typescript
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Click me!](https://www.linkedin.com/in/ernesto-enriquez/)
-- Email: [eernesto@umich.edu](mailto:eernesto@umich.edu)
+- [Linkedin](https://www.linkedin.com/in/ernesto-enriquez/)
+- [Email](mailto:eernesto@umich.edu)
