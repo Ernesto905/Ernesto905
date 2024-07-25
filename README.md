@@ -1,6 +1,6 @@
-I'm a Junior at the University of Michigan— Ann Arbor. 
+Rising senior at the University of Michigan— Ann Arbor. 
 
-Passionate about DevOps, Machine Learning, and Cloud Infrastructure.
+I am passionate about DevOps, Machine Learning, and Cloud Infrastructure.
 
 ## Skills
 
