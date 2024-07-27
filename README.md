@@ -8,7 +8,7 @@ I am passionate about DevOps, Machine Learning, and Cloud Infrastructure.
 
 - Docker, Kubernetes
 - Terraform
-- AWS/GCP
+- AWS, GCP
 - Jenkins, GitLab CI, FluxCD, ArgoCD
 
 #### Machine Learning:
