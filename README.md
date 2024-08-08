@@ -1,6 +1,6 @@
 Rising senior at the University of Michigan— Ann Arbor. 
 
-I am passionate about DevOps, Machine Learning, and Cloud Infrastructure.
+I am passionate about software development, machine learning, and cloud infrastructure.
 
 ## Skills
 
